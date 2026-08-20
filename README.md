@@ -18,7 +18,7 @@
 ## 🎮 PLAYER STATS (LIVE)
 
 ```diff
-+ Username: AnyraX
++ Username: Ananya065
 + Mode: Grinding 🔥
 + Special Ability: Turning complex problems into practical, innovative solutions using technology and AI 🚀
 + Status: Actively Building The Future
@@ -38,8 +38,25 @@ Backend           ███████░░░ 70%
 ## 🧠 TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,swift,react,nodejs,express,mongodb,fastapi,solidity,tensorflow,pytorch,docker,kubernetes,linux,git,github,html,css" />
 </p>
+
+### 🧬 ADVANCED / EXPERIMENTAL
+
+`RAG` • `FAISS` • `Sentence Transformers` • `Hugging Face` • `LLMs`
+`Computer Vision` • `OCR` • `Vector Databases` • `Embeddings`
+`Reinforcement Learning` • `Federated Learning` • `Agentic AI`
+`Knowledge Graphs` • `Semantic Search` • `Multimodal AI`
+`Edge AI` • `On-Device ML` • `AI Agents` • `MLOps`
+
+### 🧪 DEEP LAB
+
+`ILMA` • `Memory Architectures` • `Vector Indexing`
+`Neural Embeddings` • `RAG Pipelines` • `Zero-Shot Learning`
+`Face Detection` • `Facial Landmarks` • `Model Quantization`
+`Inference Optimization` • `Distributed Systems`
+`Reinforcement Learning` • `Knowledge Retrieval`
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ananya065/Ananya065/output/github-contribution-grid-snake.svg" />
@@ -76,7 +93,7 @@ Backend           ███████░░░ 70%
 ## 📊 LIVE BATTLE STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya065&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anyrashow_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya065&theme=radical&hide_border=true" />
 </p>
 
@@ -85,7 +102,7 @@ Backend           ███████░░░ 70%
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya065&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya065&bg_color=1a1b27&color=ffffff&line=8A2BE2&point=FF00FF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
