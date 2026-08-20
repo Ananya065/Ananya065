@@ -23,7 +23,9 @@
 + Special Ability: Turning complex problems into practical, innovative solutions using technology and AI 🚀
 + Status: Actively Building The Future
 ```
+### 👀 Profile Visitors
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ananya065&color=blueviolet&style=for-the-badge)
 ---
 
 ## ⚡ POWER LEVELS
@@ -86,8 +88,13 @@ Backend           ███████░░░ 70%
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya065&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya065&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ananya065&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -102,6 +109,7 @@ Backend           ███████░░░ 70%
 ☐ Baaki Secret Hai...😉 
 
 ---
+
 
 <p align="center">
   💜 Crafted with curiosity, discipline & unstoppable energy 💜
