@@ -93,13 +93,13 @@ Backend           ███████░░░ 70%
 
 ## 👑 FINAL BOSS GOALS
 
-☑ Master DSA 🧠
-☑ Build Cool Things 🚀    
-☑ Keep Learning Keep Growing ⚡  
-☑ Make an Impact 🌍
-☑ Stay Curious 👀
-☑ exploring / changing / experimenting 🦋 
-☐ Baaki Screte Hai...😉  
+☑ Master DSA 🧠  
+☑ Build Cool Things 🚀  
+☑ Keep Learning, Keep Growing ⚡  
+☑ Make an Impact 🌍  
+☑ Stay Curious 👀  
+☑ Explore, Change, Experiment 🦋  
+☐ Baaki Secret Hai...😉 
 
 ---
 
