@@ -50,7 +50,7 @@ Backend           ███████░░░ 70%
 ## 🧭 ACTIVE QUESTS
 
 🌊 **OceanGPT**  
-> AI-powered intelligent assistant system Oceanic Data  
+> AI-powered intelligent assistant system of Oceanic Data  
 
 🧠 **Mental Health Web Application**  
 > Building safe digital healing spaces  
@@ -59,7 +59,7 @@ Backend           ███████░░░ 70%
 > Change Dectection due to huan Interference  
 
 🚀 **SkillVerse**  
-> Skill-based growth platform
+> knowledgable Video generation platform for kids 
 
 🎯 **Schelo**
  > Gamified task Manager
@@ -68,9 +68,10 @@ Backend           ███████░░░ 70%
 > Reinforcement Learning to model CPU Scheduling
 
 🖥️ **Crime Investigation Sytsem**
-> An enterprise AI platform offering secure, conversational intelligence, network mapping, and predictive analytics for law enforcement.
+> An enterprise AI platform offering secure, conversational intelligence, network mapping, and predictive analytics for law enforcement
+
 🩺 **Agis**
->
+> AI Clinical Decision Support System that can assist doctors 
 ---
 
 ## 📊 LIVE BATTLE STATS
