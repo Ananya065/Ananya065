@@ -64,8 +64,8 @@ Backend           ███████░░░ 70%
 🎯 **Schelo**
  > Gamified task Manager
  
-🐍 **Schelo**
-> Interactive Game
+🐍 **RLScheduler**
+> 
 ---
 
 ## 📊 LIVE BATTLE STATS
