@@ -50,7 +50,7 @@ Backend           ███████░░░ 70%
 ## 🧭 ACTIVE QUESTS
 
 🌊 **OceanGPT**  
-> AI-powered intelligent assistant system  
+> AI-powered intelligent assistant system Oceanic Data  
 
 🧠 **Mental Health Web Application**  
 > Building safe digital healing spaces  
@@ -65,6 +65,11 @@ Backend           ███████░░░ 70%
  > Gamified task Manager
  
 🐍 **RLScheduler**
+> Reinforcement Learning to model CPU Scheduling
+
+🖥️ **Crime Investigation Sytsem**
+> 
+🩺 **Agis**
 > 
 ---
 
