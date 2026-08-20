@@ -23,9 +23,6 @@
 + Special Ability: Turning complex problems into practical, innovative solutions using technology and AI 🚀
 + Status: Actively Building The Future
 ```
-### 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ananya065&color=blueviolet&style=for-the-badge)
 ---
 
 ## ⚡ POWER LEVELS
@@ -92,6 +89,7 @@ Backend           ███████░░░ 70%
 </p>
 
 ---
+
 ### 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ananya065&color=blueviolet&style=for-the-badge)
