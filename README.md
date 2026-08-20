@@ -18,9 +18,9 @@
 ## 🎮 PLAYER STATS (LIVE)
 
 ```diff
-+ Username: Ananya065
++ Username: AnyraX
 + Mode: Grinding 🔥
-+ Special Ability: Turning Pain Into Power
++ Special Ability: Turning complex problems into practical, innovative solutions using technology and AI 🚀
 + Status: Actively Building The Future
 ```
 
@@ -64,10 +64,10 @@ Backend           ███████░░░ 70%
 🎯 **Schelo**
  > Gamified task Manager
  
-🐍 **RLScheduler**
+🖥️ **RLScheduler**
 > Reinforcement Learning to model CPU Scheduling
 
-🖥️ **Crime Investigation Sytsem**
+👩‍💻 **Crime Investigation Sytsem**
 > An enterprise AI platform offering secure, conversational intelligence, network mapping, and predictive analytics for law enforcement
 
 🩺 **Agis**
@@ -93,9 +93,12 @@ Backend           ███████░░░ 70%
 
 ## 👑 FINAL BOSS GOALS
 
-☑ 1000+ DSA  
-☑ Top 1% LeetCode    
-☑ Global Tech Speaker  
+☑ Master DSA 🧠
+☑ Build Cool Things 🚀    
+☑ Keep Learning Keep Growing ⚡  
+☑ Make an Impact 🌍
+☑ Stay Curious 👀
+☑ exploring / changing / experimenting 🦋 
 ☐ Baaki Screte Hai...😉  
 
 ---
