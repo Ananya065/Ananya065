@@ -84,7 +84,7 @@ Backend           ███████░░░ 70%
 > Reinforcement Learning to model CPU Scheduling
 
 👩‍💻 **Crime Investigation Sytsem**
-> An enterprise AI platform offering secure, conversational intelligence, network mapping, and predictive analytics for law enforcement
+> An enterprise AI platform offering secure, conversational intelligence, network mapping, and predictive analytics for law enforcement.
 
 🩺 **Agis**
 > AI Clinical Decision Support System that can assist doctors 
